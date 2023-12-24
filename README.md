@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @knakamura13
-- 👀 I’m interested in AI, Machine Learning, Web Design, and Mobile Development.
-- 🌱 I’m currently learning Machine Learning for Trading at Georgia Tech in my Masters program.
+- 👋 Hi, I’m Kyle Nakamura. Enchenté!
+- 👀 I’m passionate about AI & ML, computer vision, autonomous vehicles & robotics, and web development.
+- 🌱 Currently finishing up my Master's degree in Computer Science at Georgia Tech (graduating spring 2024).
