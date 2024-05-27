@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Kyle Nakamura. Enchenté!
 - 👀 I’m passionate about AI & ML, computer vision, autonomous vehicles & robotics, and web development.
-- 🌱 Currently finishing up my Master's degree in Computer Science at Georgia Tech (graduating spring 2024).
+- 🌱 Just finished my Master's in Computer Science at Georgia Tech (May 2024).
